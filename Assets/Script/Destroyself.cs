@@ -11,7 +11,7 @@ public class Destroyself : MonoBehaviour {
 	}
 
 	void Update () {
-		if (Time.time - st > 15){
+		if (Time.time - st > 5){
 			Destroy (this.gameObject);
 		}
 	}
