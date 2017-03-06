@@ -49,6 +49,7 @@
      <Compile Include="Assets\Script\Camera_controller.cs" />
      <Compile Include="Assets\Script\Destroyself.cs" />
      <Compile Include="Assets\Script\Plane_con.cs" />
+     <Compile Include="Assets\Script\cube_rotate.cs" />
      <Compile Include="Assets\Script\player_controller.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
